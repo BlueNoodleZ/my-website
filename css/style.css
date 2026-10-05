@@ -1,0 +1,54 @@
+*,
+*::before,
+*::after {
+
+    box-sizing: border-box;
+
+    margin: 200;
+
+    padding: 100;
+
+    font-family: "Marvel", sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+html {
+    background-color: bisque;
+    background-image: url('../image/Checker.jpg');
+
+}
+
+h1 {
+    background-color: maroon; text-align: center; font-size:xx-large;
+
+
+footer {
+    background-color: maroon; text-align: center; font-size: x-large;
+}
+
+.about {
+    background-color: maroon;
+    width: 60%;
+    border-radius: 8px; text-align: center; text-decoration: underline;
+}
+
+.Characters {
+    background-color: maroon;
+    width: 60%;
+    border-radius: 8px; text-align: center;font-size: xx-large;
+}
+h3{ text-align: center; font-weight: 700; font-size:xx-large;}
+
+h3{ background-color: maroon;}
+.AZULA{background-color: maroon;
+    width: 60%;
+    border-radius: 8px; text-align: center;
+text-decoration: underline;}
+    .DnD {background-color: maroon;
+    width: 60%;
+    border-radius: 8px;text-align: center;
+text-decoration: underline;}
+    .Voice {background-color: maroon;
+    width: 60%;
+    border-radius: 8px; text-align: center;
+text-decoration: underline;}
